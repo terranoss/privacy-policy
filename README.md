@@ -49,4 +49,4 @@ For our current privacy policy, please see [privacy-policy.md](privacy-policy.md
 ## Contact
 
 For questions, support, or feedback about our apps, please contact:  
-**Email:** [Your Contact Email Here]
+**Email:** deen.htc@gmail.com
