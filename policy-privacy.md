@@ -1,8 +1,8 @@
-# Privacy Policy for Apps by melur
+# Privacy Policy for Apps by M-D-C
 
 **Effective Date:** July 22, 2025
 
-This Privacy Policy explains how the following apps developed and published by **melur** collect, use, and protect your information:
+This Privacy Policy explains how the following apps developed and published by **M-D-C** collect, use, and protect your information:
 
 - MyRadio: Radio Online Terbaik (`com.app.radiomelur`)
 - MyRuqyah (`com.myruqyah.melur`)
