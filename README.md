@@ -1,4 +1,4 @@
-# melur Apps
+# M-D-C Apps
 
 This repository provides information, documentation, and policies for apps developed and published by **melur**. Here you will find details about each app and our commitment to user privacy and experience.
 
