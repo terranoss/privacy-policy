@@ -18,7 +18,7 @@ This policy applies to all services provided by these applications.
 
 ## 1. Who We Are
 
-**melur** is the official developer and publisher of the apps listed above.
+**M-D-C** is the official developer and publisher of the apps listed above.
 
 For privacy-related inquiries, contact:  
 **Email:** deen.htc@gmail.com
@@ -82,7 +82,7 @@ We may update this Privacy Policy periodically. Changes will be announced within
 
 If you have questions or concerns about this Privacy Policy, contact:
 
-**melur**  
+**M-D-C**  
 deen.htc@gmail.com
 
 ---
